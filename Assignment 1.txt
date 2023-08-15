@@ -1,0 +1,39 @@
+Method 1: Hello world by Anaconda prompt
+(base) C:\Users\AA>python
+Python 3.11.3 | packaged by Anaconda, Inc. | (main, Apr 19 2023, 23:46:34) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello world")
+Hello world
+>>> print("Mahnoor")
+Mahnoor
+>>>
+
+Method 2: Hello world by Anaconda prompt > jupyter notebook
+print("Hello world")
+Hello world
+
+Method 3: Hello world by jupyter lab
+print("Hello world")
+Hello world
+
+Method 4: Hello world by VS Code
+print("Hello world")
+
+PS C:\Users\AA\OneDrive\Desktop\First assignment> & C:/Users/AA/AppData/Local/anaconda3/python.exe "c:/Users/AA/OneDrive/Desktop/First assignment/Assignment 1.py"
+Hello world
+PS C:\Users\AA\OneDrive\Desktop\First assignment> 
+
+Method 5: Hello world by Google colab
+print("Hello world")
+Hello world
+
+Method 6: Hello world by cmd
+Microsoft Windows [Version 10.0.22621.2134]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\AA>python
+Python 3.11.3 | packaged by Anaconda, Inc. | (main, Apr 19 2023, 23:46:34) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello world")
+Hello world
+>>>
