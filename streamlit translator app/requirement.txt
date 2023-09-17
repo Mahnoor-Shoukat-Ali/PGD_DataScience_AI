@@ -1,0 +1,6 @@
+import streamlit as st
+from gtts import gTTS
+from googletrans import Translator, LANGUAGES
+import tempfile
+import os
+import speech_recognition as sr
